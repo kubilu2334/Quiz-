@@ -1,0 +1,726 @@
+[
+  {
+    "id": 1,
+    "question": "What is a computer?",
+    "answer": "A computer is an electronic device that accepts input, processes it, and produces output or information.",
+    "keywords": ["electronic", "input", "output"]
+  },
+  {
+    "id": 2,
+    "question": "What are the two main characteristics of a computer?",
+    "answer": "1. Responds to specific instructions 2. Can execute pre-recorded programs",
+    "keywords": ["instructions", "program"]
+  },
+  {
+    "id": 3,
+    "question": "What is a workstation computer?",
+    "answer": "A powerful, single-user computer with better CPU and monitor quality.",
+    "keywords": ["workstation", "single-user", "CPU"]
+  },
+  {
+    "id": 4,
+    "question": "What is a minicomputer?",
+    "answer": "A multi-user computer, supporting 10-100s of users simultaneously.",
+    "keywords": ["multi-user", "minicomputer", "users"]
+  },
+  {
+    "id": 5,
+    "question": "What is a mainframe computer?",
+    "answer": "A powerful multi-user system supporting hundreds or thousands of users.",
+    "keywords": ["mainframe", "multi-user", "powerful"]
+  },
+  {
+    "id": 6,
+    "question": "What is a supercomputer?",
+    "answer": "An extremely fast computer that can perform hundreds of millions of instructions per second.",
+    "keywords": ["supercomputer", "fast", "instructions"]
+  },
+  {
+    "id": 7,
+    "question": "What is a personal computer (PC)?",
+    "answer": "A small, relatively inexpensive computer designed for individual use.",
+    "keywords": ["personal", "PC", "single-user"]
+  },
+  {
+    "id": 8,
+    "question": "What is a desktop computer?",
+    "answer": "A non-portable PC designed to stay in one location.",
+    "keywords": ["desktop", "non-portable", "PC"]
+  },
+  {
+    "id": 9,
+    "question": "What is a laptop/notebook?",
+    "answer": "A portable personal computer, battery-powered and lightweight.",
+    "keywords": ["laptop", "notebook", "portable"]
+  },
+  {
+    "id": 10,
+    "question": "What is a personal digital assistant (PDA)?",
+    "answer": "A handheld device for personal tasks, scheduling, and notes.",
+    "keywords": ["PDA", "handheld", "personal tasks"]
+  },
+  {
+    "id": 11,
+    "question": "What is a tablet computer?",
+    "answer": "A flat, portable computer with a touch screen.",
+    "keywords": ["tablet", "portable", "touchscreen"]
+  },
+  {
+    "id": 12,
+    "question": "What is a wearable computer?",
+    "answer": "A small computing device worn on the body like a smartwatch or fitness band.",
+    "keywords": ["wearable", "smartwatch", "portable"]
+  },
+  {
+    "id": 13,
+    "question": "What is a cell phone?",
+    "answer": "A portable communication device, often with computing functions.",
+    "keywords": ["cell", "phone", "mobile", "communication"]
+  },
+  {
+    "id": 14,
+    "question": "What is a general purpose computer?",
+    "answer": "A computer that solves a wide variety of problems, e.g., school, office, or hospital tasks.",
+    "keywords": ["general-purpose", "versatile", "tasks"]
+  },
+  {
+    "id": 15,
+    "question": "What is a special purpose computer?",
+    "answer": "A computer designed for a specific task, e.g., traffic lights or calculators.",
+    "keywords": ["special-purpose", "specific", "task"]
+  },
+  {
+    "id": 16,
+    "question": "Name main computer parts.",
+    "answer": "Keyboard, Mouse, Monitor, CPU, RAM, System Unit.",
+    "keywords": ["keyboard", "mouse", "monitor", "CPU", "RAM"]
+  },
+  {
+    "id": 17,
+    "question": "How do you connect computer parts?",
+    "answer": "Connect monitor and system unit, keyboard, mouse, and power supply.",
+    "keywords": ["connect", "monitor", "keyboard", "mouse"]
+  },
+  {
+    "id": 18,
+    "question": "Name some keyboard keys.",
+    "answer": "Enter, Delete, Backspace, Space, Shift, Caps Lock, Tab, ESC, Arrow, Function Keys.",
+    "keywords": ["enter", "delete", "backspace", "space", "shift", "tab", "esc", "arrow"]
+  },
+  {
+    "id": 19,
+    "question": "What does the Enter key do?",
+    "answer": "Moves the cursor down one line and to the left margin; processes commands.",
+    "keywords": ["enter", "cursor", "process"]
+  },
+  {
+    "id": 20,
+    "question": "What does the Backspace key do?",
+    "answer": "Deletes character to the left of cursor or highlighted text.",
+    "keywords": ["backspace", "delete", "cursor"]
+  },
+  {
+    "id": 21,
+    "question": "What is the Space Bar used for?",
+    "answer": "Moves the cursor one space to the right.",
+    "keywords": ["space", "cursor", "move"]
+  },
+  {
+    "id": 22,
+    "question": "What is the Shift key used for?",
+    "answer": "To type capital letters or upper characters on keys.",
+    "keywords": ["shift", "capital", "upper"]
+  },
+  {
+    "id": 23,
+    "question": "What does the Caps Lock key do?",
+    "answer": "Locks the keyboard to type capital letters; a light indicates it is ON.",
+    "keywords": ["caps lock", "capital", "lock"]
+  },
+  {
+    "id": 24,
+    "question": "What does the Tab key do?",
+    "answer": "Moves cursor several spaces forward or navigates to the next field.",
+    "keywords": ["tab", "cursor", "navigate"]
+  },
+  {
+    "id": 25,
+    "question": "What does the ESC key do?",
+    "answer": "Cancels a menu, dialog box, or command operation.",
+    "keywords": ["esc", "cancel", "menu", "dialog"]
+  },
+  {
+    "id": 26,
+    "question": "What is the purpose of a computer?",
+    "answer": "A computer is created to simplify jobs of different types according to user needs.",
+    "keywords": ["simplify", "jobs", "user needs"]
+  },
+  {
+    "id": 27,
+    "question": "Who is the user of a computer?",
+    "answer": "The user is the one who commands the computer and tells it what to do.",
+    "keywords": ["user", "commands", "computer"]
+  },
+  {
+    "id": 28,
+    "question": "How does a user provide data to a computer?",
+    "answer": "The user enters data using input devices such as keyboard and mouse.",
+    "keywords": ["input", "keyboard", "mouse"]
+  },
+  {
+    "id": 29,
+    "question": "What is the process of entering data into a computer called?",
+    "answer": "The process is called data entry.",
+    "keywords": ["data entry", "process"]
+  },
+  {
+    "id": 30,
+    "question": "What happens after data is processed in a computer?",
+    "answer": "The processed data is sent to main memory and can then be output via devices such as monitor or printer.",
+    "keywords": ["processed", "main memory", "output"]
+  },
+  {
+    "id": 31,
+    "question": "Name the steps a computer follows to execute data.",
+    "answer": "First, data is entered through input devices. Second, Control Unit sends signals and commands to process data. Third, output devices display results. Lastly, secondary storage stores data permanently.",
+    "keywords": ["input", "control unit", "output", "secondary storage"]
+  },
+  {
+    "id": 32,
+    "question": "Name the generations of computers.",
+    "answer": "First, Second, Third, Fourth, and Fifth Generations.",
+    "keywords": ["generations", "first", "second", "third", "fourth", "fifth"]
+  },
+  {
+    "id": 33,
+    "question": "What are the main features of first generation computers?",
+    "answer": "Vacuum tubes, machine language only, huge size, unreliable, generated a lot of heat.",
+    "keywords": ["vacuum tubes", "machine language", "unreliable", "heat", "size"]
+  },
+  {
+    "id": 34,
+    "question": "What distinguishes second generation computers?",
+    "answer": "Use of transistors, smaller size, less heat, more reliable, supported assembly languages.",
+    "keywords": ["transistors", "smaller", "reliable", "assembly language"]
+  },
+  {
+    "id": 35,
+    "question": "What technology was used in third generation computers?",
+    "answer": "Integrated Circuits (ICs) were used to make computers smaller, reliable, and efficient.",
+    "keywords": ["IC", "integrated circuits", "reliable", "efficient"]
+  },
+  {
+    "id": 36,
+    "question": "What is notable about fourth generation computers?",
+    "answer": "They used VLSI circuits, were powerful, compact, portable, and supported personal computers and networks.",
+    "keywords": ["VLSI", "compact", "portable", "PC", "networks"]
+  },
+  {
+    "id": 37,
+    "question": "What defines fifth generation computers?",
+    "answer": "ULSI technology, parallel processing, AI software, advanced interfaces, compact powerful computers.",
+    "keywords": ["ULSI", "AI", "parallel processing", "compact", "powerful"]
+  },
+  {
+    "id": 38,
+    "question": "Name some types of computers in modern generation.",
+    "answer": "Desktop, Laptop, Notebook, Ultrabook, Chromebook.",
+    "keywords": ["desktop", "laptop", "notebook", "ultrabook", "chromebook"]
+  },
+  {
+    "id": 39,
+    "question": "What is computer hardware?",
+    "answer": "Hardware is the equipment that processes data to create information and is controlled by software.",
+    "keywords": ["hardware", "equipment", "processes", "data"]
+  },
+  {
+    "id": 40,
+    "question": "What is computer software?",
+    "answer": "Software consists of programs that convert data into information and instruct the computer what to do.",
+    "keywords": ["software", "programs", "instructions", "data"]
+  },
+  {
+    "id": 41,
+    "question": "Name the two types of software.",
+    "answer": "System software and application software.",
+    "keywords": ["system software", "application software"]
+  },
+  {
+    "id": 42,
+    "question": "What is the function of keyboard and mouse?",
+    "answer": "They are input devices used to enter data into the computer system.",
+    "keywords": ["keyboard", "mouse", "input"]
+  },
+  {
+    "id": 43,
+    "question": "What is the CPU and its main parts?",
+    "answer": "The CPU executes instructions; main parts are Control Unit (CU) and Arithmetic/Logic Unit (ALU).",
+    "keywords": ["CPU", "control unit", "ALU", "executes"]
+  },
+  {
+    "id": 44,
+    "question": "What are examples of output devices?",
+    "answer": "Monitor, printer, speakers.",
+    "keywords": ["output", "monitor", "printer", "speakers"]
+  },
+  {
+    "id": 45,
+    "question": "What is RAM and ROM?",
+    "answer": "RAM is temporary memory, ROM is permanent read-only memory used for firmware.",
+    "keywords": ["RAM", "ROM", "memory", "storage"]
+  },
+  {
+    "id": 46,
+    "question": "What is a hard disk used for?",
+    "answer": "Permanent storage of data and programs within the system.",
+    "keywords": ["hard disk", "permanent", "storage", "programs"]
+  },
+  {
+    "id": 47,
+    "question": "What is data backup?",
+    "answer": "Copying and archiving data to restore it in case of loss.",
+    "keywords": ["backup", "copy", "restore", "data"]
+  },
+  {
+    "id": 48,
+    "question": "Name types of backup media.",
+    "answer": "Magnetic tape, hard disk, optical storage, solid state storage, remote backup service, floppy disk.",
+    "keywords": ["magnetic tape", "hard disk", "optical", "SSD", "remote", "floppy"]
+  },
+  {
+    "id": 49,
+    "question": "How often should backups be run?",
+    "answer": "Depends on data change frequency: daily, weekly, monthly, or whenever changes occur.",
+    "keywords": ["backups", "frequency", "daily", "weekly", "monthly"]
+  },
+  {
+    "id": 50,
+    "question": "Name some devices and peripherals of a computer.",
+    "answer": "LCDs, Printer, UPS, HPLC Machines, X-ray Machines, Ultrasound, Public Address System.",
+    "keywords": ["devices", "peripherals", "LCD", "printer", "UPS"]
+  }
+]
+[
+  {
+    "id": 51,
+    "question": "What is a desktop computer?",
+    "answer": "A non-portable personal computer designed to stay in one location.",
+    "keywords": ["desktop", "non-portable", "PC"]
+  },
+  {
+    "id": 52,
+    "question": "What is a laptop or notebook?",
+    "answer": "A portable personal computer that is lightweight and battery-powered.",
+    "keywords": ["laptop", "notebook", "portable"]
+  },
+  {
+    "id": 53,
+    "question": "What is a PDA?",
+    "answer": "A handheld device used for personal tasks, scheduling, and notes.",
+    "keywords": ["PDA", "handheld", "tasks"]
+  },
+  {
+    "id": 54,
+    "question": "What is a tablet computer?",
+    "answer": "A flat, portable computer that uses a touchscreen for input.",
+    "keywords": ["tablet", "touchscreen", "portable"]
+  },
+  {
+    "id": 55,
+    "question": "What is a wearable computer?",
+    "answer": "A small electronic device worn on the body such as a smartwatch.",
+    "keywords": ["wearable", "smartwatch", "portable"]
+  },
+  {
+    "id": 56,
+    "question": "What is a cell phone?",
+    "answer": "A portable communication device often with computing functions.",
+    "keywords": ["cell phone", "mobile", "communication"]
+  },
+  {
+    "id": 57,
+    "question": "What is a general purpose computer?",
+    "answer": "A computer designed to solve a wide variety of problems.",
+    "keywords": ["general-purpose", "versatile"]
+  },
+  {
+    "id": 58,
+    "question": "What is a special purpose computer?",
+    "answer": "A computer designed to perform a specific task.",
+    "keywords": ["special-purpose", "task-specific"]
+  },
+  {
+    "id": 59,
+    "question": "Name main computer parts.",
+    "answer": "Keyboard, Mouse, Monitor, CPU, RAM, System Unit.",
+    "keywords": ["keyboard", "mouse", "monitor", "CPU", "RAM"]
+  },
+  {
+    "id": 60,
+    "question": "How do you connect computer parts?",
+    "answer": "Connect monitor, keyboard, mouse, and power supply to the system unit.",
+    "keywords": ["connect", "monitor", "keyboard", "mouse"]
+  },
+  {
+    "id": 61,
+    "question": "Name some keyboard keys.",
+    "answer": "Enter, Delete, Backspace, Space, Shift, Caps Lock, Tab, ESC, Arrow keys, Function keys.",
+    "keywords": ["keys", "keyboard", "enter", "delete"]
+  },
+  {
+    "id": 62,
+    "question": "What does the Enter key do?",
+    "answer": "Moves the cursor down one line and processes commands.",
+    "keywords": ["enter", "cursor", "process"]
+  },
+  {
+    "id": 63,
+    "question": "What does the Backspace key do?",
+    "answer": "Deletes the character to the left of the cursor.",
+    "keywords": ["backspace", "delete", "cursor"]
+  },
+  {
+    "id": 64,
+    "question": "What is the Space Bar used for?",
+    "answer": "Moves the cursor one space to the right.",
+    "keywords": ["space", "cursor"]
+  },
+  {
+    "id": 65,
+    "question": "How do computers help in patient counseling?",
+    "answer": "They print counseling handouts, labels, invoices, and information on side effects.",
+    "keywords": ["counseling", "handouts", "side effects"]
+  },
+  {
+    "id": 66,
+    "question": "What is a patient profile?",
+    "answer": "A stored record of prescriptions, symptoms, allergies, and medication history.",
+    "keywords": ["patient profile", "allergies", "prescriptions"]
+  },
+  {
+    "id": 67,
+    "question": "How do computers check drug interactions?",
+    "answer": "They analyze prescriptions and patient profiles for possible interactions.",
+    "keywords": ["drug interaction", "prescriptions", "profile"]
+  },
+  {
+    "id": 68,
+    "question": "What are stock movement reports?",
+    "answer": "Reports that show how fast drugs are used or sold to help manage inventory.",
+    "keywords": ["inventory", "stock", "reports"]
+  },
+  {
+    "id": 69,
+    "question": "What is electronic order entry?",
+    "answer": "A system that allows pharmacies to order new medications and track shelf stock.",
+    "keywords": ["order entry", "inventory", "scanner"]
+  },
+  {
+    "id": 70,
+    "question": "How do computers help in daily and monthly logs?",
+    "answer": "They generate detailed information on prescriptions, profits, and patient types.",
+    "keywords": ["logs", "prescriptions", "profit"]
+  },
+  {
+    "id": 71,
+    "question": "How do computers help in management reports?",
+    "answer": "They generate reports on accounting, payroll, budgeting, and sales forecasting.",
+    "keywords": ["management", "reports", "accounting"]
+  },
+  {
+    "id": 72,
+    "question": "How are computers used for communication in pharmacies?",
+    "answer": "They support email and internet-based communication systems.",
+    "keywords": ["communication", "email", "messaging"]
+  },
+  {
+    "id": 73,
+    "question": "What is the main advantage of computers in pharmacies?",
+    "answer": "Improved efficiency in patient care and prescription management.",
+    "keywords": ["efficiency", "patient care"]
+  },
+  {
+    "id": 74,
+    "question": "How do computers save customer time?",
+    "answer": "By speeding up prescription drop-off and pick-up processes.",
+    "keywords": ["time saving", "prescriptions"]
+  },
+  {
+    "id": 75,
+    "question": "How do computers improve patient safety?",
+    "answer": "By preventing dosage errors, name mistakes, and drug interactions.",
+    "keywords": ["safety", "errors", "dosage"]
+  },
+  {
+    "id": 76,
+    "question": "What security risk do pharmacy computers face?",
+    "answer": "They can be hacked, exposing confidential patient information.",
+    "keywords": ["security", "hacking", "confidential"]
+  },
+  {
+    "id": 77,
+    "question": "Why is computer training necessary?",
+    "answer": "Employees need time and skills to correctly use computer systems.",
+    "keywords": ["training", "employees"]
+  },
+  {
+    "id": 78,
+    "question": "How are computers vulnerable to technical problems?",
+    "answer": "Machines can fail, get viruses, or lose data.",
+    "keywords": ["viruses", "failure", "data loss"]
+  },
+  {
+    "id": 79,
+    "question": "What are cost and space considerations of pharmacy computers?",
+    "answer": "Computers require investment in hardware, software, and physical space.",
+    "keywords": ["cost", "space", "maintenance"]
+  },
+  {
+    "id": 80,
+    "question": "What is prescription refilling?",
+    "answer": "Entering prescription data to avoid warnings if it is outdated.",
+    "keywords": ["refilling", "prescription"]
+  },
+  {
+    "id": 81,
+    "question": "What is patient counseling via computer?",
+    "answer": "Providing printed handouts and information on precautions and side effects.",
+    "keywords": ["counseling", "handouts"]
+  },
+  {
+    "id": 82,
+    "question": "How do computers track drug stock?",
+    "answer": "They generate reports that help manage inventory and order stock.",
+    "keywords": ["stock", "inventory"]
+  },
+  {
+    "id": 83,
+    "question": "What is prescription filling?",
+    "answer": "Entering details such as patient name, doctor name, drug, quantity, and printing label.",
+    "keywords": ["prescription", "label", "price"]
+  },
+  {
+    "id": 84,
+    "question": "What is e-prescribing?",
+    "answer": "Electronic prescriptions sent directly from the doctor to the pharmacy.",
+    "keywords": ["e-prescribing", "electronic"]
+  },
+  {
+    "id": 85,
+    "question": "How do computers improve prescription processing?",
+    "answer": "They make it more reliable and efficient.",
+    "keywords": ["processing", "reliable", "efficient"]
+  },
+  {
+    "id": 86,
+    "question": "How do computers support patient counseling?",
+    "answer": "They print handouts, labels, invoices, and medication precautions.",
+    "keywords": ["counseling", "labels"]
+  },
+  {
+    "id": 87,
+    "question": "What is a patient profile?",
+    "answer": "A stored record of new prescriptions, symptoms, and allergies.",
+    "keywords": ["patient profile", "symptoms"]
+  },
+  {
+    "id": 88,
+    "question": "How do computers monitor drug interactions?",
+    "answer": "Programs check patient profiles and prescriptions for harmful combinations.",
+    "keywords": ["drug interactions", "programs"]
+  },
+  {
+    "id": 89,
+    "question": "What is electronic order entry?",
+    "answer": "Ordering medications from wholesalers and scanning inventory.",
+    "keywords": ["order entry", "scanner"]
+  },
+  {
+    "id": 90,
+    "question": "How are logs managed by computers?",
+    "answer": "They provide daily and monthly reviews of prescriptions and profits.",
+    "keywords": ["logs", "daily", "monthly"]
+  },
+  {
+    "id": 91,
+    "question": "What management reports are generated by computers?",
+    "answer": "Reports on accounting, payroll, budgeting, sales forecasting, and market analysis.",
+    "keywords": ["reports", "management", "forecasting"]
+  },
+  {
+    "id": 92,
+    "question": "How do computers facilitate communication?",
+    "answer": "They enable email and internet-based messaging.",
+    "keywords": ["communication", "email"]
+  },
+  {
+    "id": 93,
+    "question": "How do computers improve record keeping?",
+    "answer": "They increase speed, efficiency, and accuracy in data entry and inventory management.",
+    "keywords": ["record keeping", "efficiency"]
+  },
+  {
+    "id": 94,
+    "question": "How does computerized document generation help?",
+    "answer": "It automatically creates purchase orders, checks, and invoices.",
+    "keywords": ["documents", "automation"]
+  },
+  {
+    "id": 95,
+    "question": "What is timely data?",
+    "answer": "Real-time reports showing inventory levels and sales performance.",
+    "keywords": ["timely data", "inventory"]
+  },
+  {
+    "id": 96,
+    "question": "What are advantages of computerized records?",
+    "answer": "Better use of staff, money, materials, time, and reduced costs.",
+    "keywords": ["efficiency", "cost reduction"]
+  },
+  {
+    "id": 97,
+    "question": "Name some pharmacy software.",
+    "answer": "DHIS, Jeeva, Win Pharm, Pioneer RX.",
+    "keywords": ["DHIS", "Jeeva", "Win Pharm"]
+  },
+  {
+    "id": 98,
+    "question": "What are features of pharmacy software?",
+    "answer": "User-friendly input, accuracy, inventory management, reporting, e-prescription.",
+    "keywords": ["features", "software"]
+  },
+  {
+    "id": 99,
+    "question": "How does prescription processing increase reliability?",
+    "answer": "Computers make the process accurate and consistent.",
+    "keywords": ["prescription", "accuracy"]
+  },
+  {
+    "id": 100,
+    "question": "How do computers document patient counseling?",
+    "answer": "They print labels, handouts, and invoices with medication precautions.",
+    "keywords": ["counseling", "documentation"]
+  }
+    ]
+[
+  {
+    "id": 21,
+    "question": "What is the Space Bar used for?",
+    "answer": "Moves the cursor one space to the right.",
+    "keywords": ["space", "cursor", "move"]
+  },
+  {
+    "id": 22,
+    "question": "What does the Delete key do?",
+    "answer": "Deletes the character to the right of the cursor or selected text.",
+    "keywords": ["delete", "cursor", "text"]
+  },
+  {
+    "id": 23,
+    "question": "What does the Shift key do?",
+    "answer": "Used to type capital letters and access upper symbols on keys.",
+    "keywords": ["shift", "capital", "symbols"]
+  },
+  {
+    "id": 24,
+    "question": "What does the Caps Lock key do?",
+    "answer": "Switches typing mode to all capital letters until turned off.",
+    "keywords": ["caps lock", "capital", "typing"]
+  },
+  {
+    "id": 25,
+    "question": "What does the Tab key do?",
+    "answer": "Moves the cursor to the next tab stop.",
+    "keywords": ["tab", "cursor", "indent"]
+  },
+  {
+    "id": 26,
+    "question": "What does the ESC key do?",
+    "answer": "Cancels or exits the current operation.",
+    "keywords": ["esc", "cancel", "exit"]
+  },
+  {
+    "id": 27,
+    "question": "What are Arrow Keys used for?",
+    "answer": "Move the cursor in different directions.",
+    "keywords": ["arrow", "cursor", "navigation"]
+  },
+  {
+    "id": 28,
+    "question": "What are Function Keys?",
+    "answer": "Keys labeled F1–F12 that perform special tasks depending on software.",
+    "keywords": ["function keys", "F1–F12", "tasks"]
+  },
+  {
+    "id": 29,
+    "question": "What is a Monitor?",
+    "answer": "An output device used to display information visually.",
+    "keywords": ["monitor", "display", "output"]
+  },
+  {
+    "id": 30,
+    "question": "What is a Keyboard?",
+    "answer": "An input device used to type data into the computer.",
+    "keywords": ["keyboard", "input", "typing"]
+  },
+  {
+    "id": 31,
+    "question": "What is a Mouse?",
+    "answer": "A pointing device used to control the cursor on the screen.",
+    "keywords": ["mouse", "cursor", "pointing"]
+  },
+  {
+    "id": 32,
+    "question": "What is RAM?",
+    "answer": "Temporary memory used by the computer to store data currently in use.",
+    "keywords": ["RAM", "memory", "temporary"]
+  },
+  {
+    "id": 33,
+    "question": "What is a CPU?",
+    "answer": "The central processing unit that executes instructions.",
+    "keywords": ["CPU", "processor", "instructions"]
+  },
+  {
+    "id": 34,
+    "question": "What is a System Unit?",
+    "answer": "The main case containing the computer’s core components.",
+    "keywords": ["system unit", "hardware", "components"]
+  },
+  {
+    "id": 35,
+    "question": "What is a Hard Disk?",
+    "answer": "A storage device used to keep data permanently.",
+    "keywords": ["hard disk", "storage", "data"]
+  },
+  {
+    "id": 36,
+    "question": "What is Software?",
+    "answer": "Programs and instructions that run on a computer.",
+    "keywords": ["software", "programs", "instructions"]
+  },
+  {
+    "id": 37,
+    "question": "What is Hardware?",
+    "answer": "The physical parts of a computer that you can touch.",
+    "keywords": ["hardware", "physical", "computer parts"]
+  },
+  {
+    "id": 38,
+    "question": "What is an Operating System?",
+    "answer": "Software that controls computer hardware and manages resources.",
+    "keywords": ["operating system", "OS", "software"]
+  },
+  {
+    "id": 39,
+    "question": "What is a File?",
+    "answer": "A collection of data stored in a computer.",
+    "keywords": ["file", "data", "storage"]
+  },
+  {
+    "id": 40,
+    "question": "What is a Folder?",
+    "answer": "A container used to organize files on a computer.",
+    "keywords": ["folder", "organize", "files"]
+  }
+]
